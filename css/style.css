@@ -1,0 +1,15 @@
+body{
+    
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: magenta;
+    font-weight:600;
+    text-shadow: 2px 2px 3px black;
+
+}
+.p{
+    font-family: font-family: 'Oswald', sans-serif;
+font-family: 'IBM Plex Mono', monospace;
+
+}
